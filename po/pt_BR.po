@@ -23,27 +23,27 @@ msgid ""
 "\n"
 "\n"
 "[User - bouquets (TV)]\n"
-msgstr ""
+msgstr "[Usuário - Favoritos (TV)]"
 
 #: StartKodi/plugin.py:64
 #, fuzzy
 msgid ""
 "\n"
 "   Please press OK to start Kodi..."
-msgstr "Por favor pressione 'OK' para continuar."
+msgstr "Por favor pressione OK para iniciar o Kodi..."
 
 #: StartKodi/plugin.py:66
 msgid ""
 "\n"
 "  WARNING: \n"
 "  There is not enough space to install Kodi!"
-msgstr ""
+msgstr "Não há espaço suficiente para instalar o Kodi!"
 
 #: StartKodi/plugin.py:68
 msgid ""
 "\n"
 " Kodi not present. Proceed with install?"
-msgstr ""
+msgstr "Kodi não está instalado. Iniciar a instalação?"
 
 #: HdmiCEC/plugin.py:110
 msgid ""
@@ -55,7 +55,7 @@ msgstr ""
 msgid ""
 "\n"
 "<This tuner is configured automatically>"
-msgstr ""
+msgstr "Este tuner está configurado automaticamente"
 
 #: SoftwareManager/plugin.py:208
 msgid ""
@@ -72,14 +72,14 @@ msgid ""
 "After pressing OK, please wait!"
 msgstr ""
 "\n"
-"Depois de pressionar 'OK', aguarde por favor!"
+"Após pressionar OK, aguarde por favor!"
 
 #: SoftwareManager/plugin.py:191
 #, fuzzy, python-format
 msgid ""
 "\n"
 "Backup your %s %s settings."
-msgstr "Ajustes do sistema de backup"
+msgstr ""
 
 #: SoftwareManager/plugin.py:188
 #, python-format
@@ -116,7 +116,7 @@ msgid ""
 "Manage extensions or plugins for your %s %s"
 msgstr ""
 "\n"
-"Gerenciador de extensões ou plugins para seu receptor"
+"Gerenciador de extensões ou plugins para seu receptor %s %s"
 
 #: SoftwareManager/plugin.py:183
 #, fuzzy, python-format
@@ -133,13 +133,13 @@ msgid ""
 "Press OK on your remote control to continue."
 msgstr ""
 "\n"
-"Pressione 'OK' no seu controle remoto para continuar."
+"Pressione OK no seu controle remoto para continuar."
 
 #: Satfinder/plugin.py:100
 msgid ""
 "\n"
 "Recording in progress."
-msgstr ""
+msgstr "Gravação em andamento."
 
 #: SoftwareManager/plugin.py:192
 #, fuzzy, python-format
@@ -155,7 +155,7 @@ msgid ""
 "Restore your %s %s with a new firmware."
 msgstr ""
 "\n"
-"Restaurar seu receptor com um firmware novo."
+"Restaurar seu %s %s com um firmware novo."
 
 #: SoftwareManager/plugin.py:210
 msgid ""
@@ -201,7 +201,7 @@ msgstr ""
 msgid ""
 "\n"
 "[User - bouquets (RADIO)]\n"
-msgstr ""
+msgstr "[Usuário - favoritos (RADIO)]"
 
 #: key_actions.py:357
 #, python-format
@@ -220,15 +220,15 @@ msgstr ""
 
 #: ImageBackup.py:621
 msgid "     no space left on back-up device"
-msgstr ""
+msgstr "Sem espaço no dispositivo de back-up"
 
 #: ImageBackup.py:622
 msgid "     no writing permission on back-up device"
-msgstr ""
+msgstr "Sem permissão de escrita no dispositivo de back-up"
 
 #: ImageBackup.py:620
 msgid "     wrong back-up destination "
-msgstr ""
+msgstr "Local errado para back-up"
 
 # normalised
 #: About.py:118
@@ -252,7 +252,7 @@ msgstr ""
 #: key_actions.py:140
 #, fuzzy, python-format
 msgid " ('%s') ends with error messages."
-msgstr "Ocultar erros no zapping"
+msgstr ""
 
 #: key_actions.py:137
 #, python-format
@@ -314,16 +314,16 @@ msgstr ""
 
 #: FileCommander/plugin.py:694 FileCommander/plugin.py:756
 msgid " - file exist! Overwrite"
-msgstr ""
+msgstr " - o arquivo existe! Substituir"
 
 #: FileCommander/plugin.py:698 FileCommander/plugin.py:760
 msgid " - folder exist! Overwrite"
-msgstr ""
+msgstr " - a pasta existe! Substituir"
 
 #: qpip.py:91
 #, fuzzy
 msgid " <No Channel>"
-msgstr "Canal"
+msgstr "Sem canal"
 
 #: qpip.py:312
 #, fuzzy
@@ -359,7 +359,7 @@ msgstr ""
 #: settinglist.py:119
 #, fuzzy
 msgid " updated"
-msgstr "Atualizar"
+msgstr "atualizado"
 
 #: FSBLUpdater.py:56
 msgid "!! Bootloader Upgrade !!"
